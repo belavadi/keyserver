@@ -38,7 +38,7 @@
     "eslint": "^4.4.1",
     "mocha": "^3.2.0",
     "sinon": "^1.17.4",
-    "supertest": "^3.0.0"
+    "supertest": "^3.4.0"
   },
   "greenkeeper": {
     "ignore": [
